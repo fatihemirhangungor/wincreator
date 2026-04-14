@@ -1,0 +1,10 @@
+{
+  "Application": {
+    "Name": "MySvc1",
+    "Version": "1.0.0"
+  },
+  "Settings": {
+    "EnableFeatureX": true,
+    "MaxItems": 100
+  }
+}

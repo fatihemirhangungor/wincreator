@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configurationRoot>
+  <settings>
+    <setting name="MaxWorkers" value="4" />
+    <setting name="RetryIntervalSeconds" value="30" />
+  </settings>
+</configurationRoot>

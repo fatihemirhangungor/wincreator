@@ -1,0 +1,10 @@
+{
+  "Application": {
+    "Name": "__SERVICE_NAME__",
+    "Version": "1.0.0"
+  },
+  "Settings": {
+    "EnableFeatureX": true,
+    "MaxItems": 100
+  }
+}
